@@ -1,0 +1,11 @@
+{
+    "name": "mt-kage/simple-enum",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yusuke Kageyama",
+            "email": "developer@mt-kage.com"
+        }
+    ],
+    "require": {}
+}
